@@ -1,0 +1,42 @@
+{
+  "resto": [
+    {
+      "name": "Ashish Restaurant",
+      "Adress": "Allahabad Uttar pradesh",
+      "email": "Ashish@Restaurant.co",
+      "id": 1
+    },
+    {
+      "name": "Sumit Restaurant --updated",
+      "Adress": "Bangalore Inda ",
+      "email": "sumit@Restaurant.com",
+      "id": 2
+    },
+    {
+      "name": "Moe Kyoe Cafe",
+      "Adress": "Ahmar & Telpinseik",
+      "email": "minkhanthein1999@gmail.com",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "Ashish Mishra",
+      "password": "123456789",
+      "email": "ashish@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "mmmm",
+      "password": "123",
+      "email": "minkhanth@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Min Khant Hein",
+      "password": "mkhRT",
+      "email": "minkhanthein1999.com",
+      "id": 3
+    }
+  ]
+}
